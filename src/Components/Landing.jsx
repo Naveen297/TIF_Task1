@@ -30,7 +30,7 @@ const Landing = () => {
                     alt="Red Curve"
                     className="absolute top-0 left-0 w-full h-full"
                 />
-               <button className='absolute top-4 right-4 px-3 py-2 mt-4 text-sm sm:px-[20px] sm:py-[14px] sm:text-base font-sans font-semibold rounded-full text-white bg-[#E23744] border-white border-2'>
+               <button className='absolute top-8 right-4 px-3 py-2 mt-5 text-[10px] sm:px-[20px] sm:py-[14px] sm:text-base font-sans font-semibold rounded-full text-white bg-[#E23744] border-white border-2'>
   Get In Touch
 </button>
             </div>
